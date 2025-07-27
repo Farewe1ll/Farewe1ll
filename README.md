@@ -1,10 +1,10 @@
 
 <a href="https://github.com/Farewe1ll">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farewe1ll&theme=tokyonight&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farewe1ll&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Farewe1ll">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Farewe1ll&show_icons=true&theme=tokyonight&hide=contribs,prs&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Farewe1ll&show_icons=true&theme=tokyonight&hide=contribs,prs" />
 </a>
 
 <!-- START_SECTION:blog -->
