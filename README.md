@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Farewe1ll/Farewe1ll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
